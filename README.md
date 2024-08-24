@@ -14,3 +14,20 @@ When I started learning computer science fundamentals all that was in my head wa
 
 After all that it gave me the courage to learn more things and research more about programming. Therefore, I would like to learn the relevant theories relatively systematically. And I know that as I start my programming journey I know I will learn new things and succeed I’m my computer science career by the grace of God. And I know having a good teacher like you will even hasten my learning and I myself will also help boost my learning and I know by the end of this lesson I will be able to do anything do able on the computer system.
 
+
+
+
+
+1.Data types in c
+i.void-2 bytes
+ii.BASIC-2 or 4 bytes
+iii.integer-4 bytes
+iv.enumerated datatype-does not specify the size
+v.boolean-1 byte
+vi.array-the size is determined by (size of array name)/(size of array name[index])
+vii.character-1 byte
+viii.string-the size is determined by adding +1 to a character
+ix.number-2 bytes
+x.structure-4 bytes
+
+2.variables:In computing, a variable is a piece of memory that stores a value that can be changed. A variable can refer to anything from numbers and strings to objects, collections, and pointers. variables are essential in software programs—without them, most modern computing functions would be impossible.
